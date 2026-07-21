@@ -1,0 +1,15 @@
+# Lab Network Configuration
+
+## All Virtual Machines
+
+Adapter 1 - NAT
+Adapter 2 - Internal Network
+
+## Address Overview
+
+All virtual machines were given static IP addresses which allowed them to ping and communicate with eachother.
+
+This would be important for future projects and labs.
+
+---
+
