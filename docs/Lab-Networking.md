@@ -27,7 +27,7 @@ This gives the virtual machines internet access while also allowing them to comm
 
 ## IP Addresses
 
-Each virtual machine was assigned its own static IP address and subnet mask.
+Each virtual machine was assigned its own static IP address. Windows was also assigned a subnet mask.
 
 Each virtual machine pinged the other to test for successful connectivity.
 
